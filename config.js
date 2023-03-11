@@ -120,47 +120,49 @@ global.syt = 'https://youtube.com/@Putra_Modz_'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085649735418'
-global.povo = '0838 6372 7401'
+global.pdana = '0856 4973 5418'
+global.povo = '0856 4973 5418'
 global.plinkaja = '-' //link aja
-global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.pgopay = '0856 4973 5418'
+global.ppulsa = '0856 4973 5418'
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.co/CyberBunny'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.LyAtas1 = '☰ ━━━ ❨'
-global.LyAtas2 = '❩ ━━┄┈ •⟅'
+global.LyAtas1 = '❐═┉═┉╾𓊈'
+global.LyAtas2 = '𓊉╼┉═┉═✥'
 global.Ly = '┃'
-global.lybwh = '┗━━┈┈ ⳻⳻'
-global.sym = '◈▻'
-global.sym2 = '➭'
+global.lybwh = '┗━━═┉═༻'
+global.sym = '⋉➺'
+global.sym2 = '➻'
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊↬' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenub = '║➵' //body
+global.dmenub2 = '┃' //body for info cmd on Default menu
+global.dmenuf = '┗══┉═──═╾༻' //footer
 global.dashmenu = '┅═┅═❏ *DASHBOARD* ❏═┅═┅'
-global.cmenut = '❏––––––『' //top
-global.cmenuh = '』––––––' //header
-global.cmenub = '┊✦ ' //body
-global.cmenuf = '┗━═┅═━––––––๑\n' //footer
+global.cmenut = '❏═┉═┉╾『' //top
+global.cmenuh = '』╼┉═┉═❏' //header
+global.cmenub = '┃⬤ ' //body
+global.cmenuf = '┗━═┅═━═┉╍ཌ๑ད\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
-global.pmenus = '✦'
-global.htki = '––––––『' // Hiasan Titile (KIRI)
-global.htka = '』––––––' // Hiasan Title  (KANAN)
+global.pmenus = '►'
+global.htki = '❐═━━┅═┅𓊈' // Hiasan Titile (KIRI)
+global.htka = '𓊉┅═┅━━═❏' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
 global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = 'Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!'
-global.wait = 'Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!'
-global.md = '_Tunggu Sabar Ya Sayang 😭..._'
-global.eror = 'Mohon Maaf Server Kami Sedang Error Njier!'
+global.stiker_wait = 'Process 98% 𝚠𝚊𝚒𝚝!!'
+
+global.wait = 'Process 98% 𝚠𝚊𝚒𝚝!!'
+global.md = '_Tunggu Sabar Ya..._'
+global.eror = 'Mohon Maaf Server Kami Sedang Error!'
+
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -492,10 +494,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 global.flaaa = fla
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.dtu = '𝐙𝖊𝖓𝖓𝕭𝖔𝖙𝐳'
+global.urlnya = "https://www.instagram.com/cornershop00"
+global.dtc = '𝐙𝐞𝐧𝐧 𝐂𝐨𝐫𝐧𝐞𝐫'
+global.phn = '0856 4973 5418'
 
 // ⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WARNING JGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
